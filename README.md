@@ -1,4 +1,9 @@
 # AbraMusic · 网易云 / QQ音乐 → Apple Music 歌单导入
+<p align="center">
+	<a href="https://github.com/Ryansu3/AbraMusic">
+	  <img src="assets/logo.png" width="200" alt="AbraMusic" />
+	</a>
+</p>
 
 > 一个 Tampermonkey 用户脚本，在 Apple Music 网页播放器中复用其内置 MusicKit 实例，将网易云 / QQ音乐歌单（或文本清单）搜索匹配后导入为 Apple Music 歌单。**无需自建 $99/年开发者账号。**
 
