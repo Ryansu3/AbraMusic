@@ -114,4 +114,4 @@ const AMBIGUOUS_MIN_SCORE   = 0.40;   // 存疑下限
 
 使用问题或功能建议欢迎提 Issue / PR，或在 GreasyFork 留言。
 
-特别：参考了https://github.com/Bistutu/GoMusic 项目关于qq音乐歌单解析的逻辑，感谢分享
+参考了项目关于qq音乐歌单解析的逻辑，感谢分享： https://github.com/Bistutu/GoMusic 
